@@ -1,4 +1,4 @@
-# 🪗 Sistema de Gestión de Obras Musicales: Folklore Vallenato
+# 🪗 Sistema de Gestión de Obras Musicales
 
 Este proyecto es una implementación avanzada de **Programación Orientada a Objetos (POO)** en Python. Utiliza la analogía de un conjunto vallenato para demostrar conceptos críticos de ingeniería de software requeridos en la asignatura de Programación.
 
